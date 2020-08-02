@@ -1,0 +1,13 @@
+﻿  Building 'Kernel Mode' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Main.cpp
+  NT.cpp
+  Render.cpp
+  Signature Scan.cpp
+  Code wird generiert...
+  Kernel Mode.vcxproj -> C:\Users\ricki\Desktop\krnl_dx_hk_gdi - Kopie\Build\l33t_1337_gdi_hk.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\ricki\Desktop\krnl_dx_hk_gdi - Kopie\Build\l33t_1337_gdi_hk.sys
+  
+  Driver is a Universal Driver.
+  Inf2Cat task was skipped as there were no inf files to process
+  
